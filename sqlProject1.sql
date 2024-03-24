@@ -1,4 +1,4 @@
---Lee Saar-SQL Basic-Project 1 
+--SQL Basic-Project 1 
 --Create Database Sales
 
 CREATE DATABASE Sales
