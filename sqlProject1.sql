@@ -387,6 +387,6 @@ FROM AdventureWorks2022.Sales.SalesOrderDetail
 
 
 --ScoreForStudent IIF(CodeWorks=Yes!,'Great Job','Fix&Resubmit');)
---Lee Saar
+
 
 
